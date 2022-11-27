@@ -12,12 +12,12 @@ Designing and analyzing model-based RL (MBRL) algorithms with guaranteed monoton
 
 ### Proof Sketch
 
-![proofsketch](assets/images/proofsketch.png)
+![proofsketch](assets/images/theoryrecipe.png)
 
 
 ### Experimental Results
 
-![proofsketch](assets/images/CMLO_main.png)
+![proofsketch](assets/images/main_res.png)
 
 
 
