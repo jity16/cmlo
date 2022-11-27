@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "When to Update Your Model:Constrained Model-based Reinforcement Learning"
-description: Tianying Ji <sup>1</sup>, Yu Luo 1, Fuchun Sun ∗,1, Mingxuan Jing 2, Fengxiang He 3, Wenbing Huang4,5
+description: Tianying Ji <sup>1</sup>, Yu Luo <sup>1</sup>, Fuchun Sun <sup>1</sup>, Mingxuan Jing <sup>2</sup>, Fengxiang He <sup>3</sup>, Wenbing Huang <sup>4，5</sup>
 ---
 
 
